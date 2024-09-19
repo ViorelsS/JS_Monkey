@@ -19,7 +19,7 @@ A fun and interactive monkey animation built with **HTML**, **CSS**, and **JavaS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/peekaboo-monkey.git
+   git clone https://github.com/viorelss/peekaboo-monkey.git
    ```
 
 2. Open the `index.html` file in your browser to interact with the monkey.
