@@ -24,7 +24,7 @@ A fun and interactive monkey animation built with **HTML**, **CSS**, and **JavaS
 
 2. Open the `index.html` file in your browser to interact with the monkey.
 
-3. Check out the live demo on **GitHub Pages** [here](https://your-username.github.io/peekaboo-monkey).
+3. Check out the live demo on **GitHub Pages** [here](https://viorelss.github.io/peekaboo-monkey).
 
 ## 🎥 Tutorial Reference
 
