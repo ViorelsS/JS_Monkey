@@ -19,12 +19,12 @@ A fun and interactive monkey animation built with **HTML**, **CSS**, and **JavaS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/viorelss/peekaboo-monkey.git
+   git clone https://github.com/ViorelsS/JS_Monkey.git
    ```
 
 2. Open the `index.html` file in your browser to interact with the monkey.
 
-3. Check out the live demo on **GitHub Pages** [here](https://viorelss.github.io/peekaboo-monkey).
+3. Check out the live demo on **GitHub Pages** [here](https://github.com/ViorelsS/JS_Monkey.git).
 
 ## 🎥 Tutorial Reference
 
