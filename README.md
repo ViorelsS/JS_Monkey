@@ -33,7 +33,7 @@ This project follows the tutorial by **Brian Design**:
 
 ## 🌐 Deployment
 
-The project has been deployed using **GitHub Pages** and can be viewed [here](https://viorelss.github.io/JS_monkey).
+The project has been deployed using **GitHub Pages** and can be viewed [here](https://viorelss.github.io/JS_Monkey).
 
 ## 🤝 Contributing
 
